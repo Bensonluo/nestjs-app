@@ -29,6 +29,7 @@ A simple nestjs backend.
 ## Start the Server and mongoDB
 
 ```bash
+Rename the "sample.env" file to ".env"
 Make sure you have docker installed.
 Then RUN
 
